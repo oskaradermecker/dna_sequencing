@@ -2,6 +2,8 @@
 
 Being able to find the optimal alignment of two biological sequences of nucleotides is an important challenge in bioinformatics. Since there are (m+n)!/(m!)² ways of alligning two sequences of lengths m and n, smart ways of comparing DNA sequences had to be developed. This program implements a sequence alignment algorithm, as well as mutlithreading, based on the algorithm of Smith and Waterman and Rogue's improvements, available in the literature. [1] provides more information on the input files used. 
 
+This program was written with Hamza Nougba and Hossein Jaidi at the Ecole Polytechnique de Bruxelles, 2016.
+
 Sources:
 
 [1] Farrar, Michael S. 2010. “NCBI BLAST Database Format” 4: 1–9.
